@@ -1,0 +1,37 @@
+#intro{
+    border:2px solid white;
+     display:flex;
+     justify-content:space-between;
+}
+img{
+    width:30%;
+    display: flex;
+
+}
+button{
+    margin-top:10px;
+    padding: 10px;
+    font-size:30px;
+   background-color: red;
+   color:white;
+   border-radius: 20%;
+   border:0px;
+}
+#ravi{
+    display: flex;
+    justify-content:space-between;
+}
+span{
+    background-color: red;
+    color:white;
+    font-size:20px;
+}
+#text{
+    text-align: center;
+    width:80%;
+    margin: auto;
+    margin-top:5px ;
+}
+h5{
+    font-size: 20px;
+}
